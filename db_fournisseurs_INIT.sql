@@ -113,4 +113,4 @@ INSERT INTO ligne_bon_de_livraion VALUES
 ('FABCFG', 'A0000009', '21'),
 ('FBCDEF', 'A0000010', '4'),
 ('FCDEFG', 'A0000001', '12'),
-('FDEFGH', 'A0000002', '8');
+('FDEFGH', 'A0000002', '8');db_fournisseurs
